@@ -1,0 +1,8 @@
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Usuario.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Estudiante.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Profesor.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Libro.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Biblioteca.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/Biblioteca_G.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/edit_cache.dir
+/home/sparks21825/ALSE_Long_E/ALSE_CII_E3/Sistema_Gestión_Biblioteca-E31/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Biblioteca_G.dir/src/main.cpp.o -o Biblioteca_G  libUsuario.a libEstudiante.a libProfesor.a libLibro.a libBiblioteca.a 

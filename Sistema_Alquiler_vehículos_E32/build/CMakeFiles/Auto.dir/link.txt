@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAuto.a CMakeFiles/Auto.dir/src/Auto.cpp.o
+/usr/bin/ranlib libAuto.a

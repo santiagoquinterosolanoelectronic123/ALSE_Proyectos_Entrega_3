@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBicicleta.a CMakeFiles/Bicicleta.dir/src/Bicicleta.cpp.o
+/usr/bin/ranlib libBicicleta.a

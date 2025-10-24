@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibro.a CMakeFiles/Libro.dir/src/Libro.cpp.o
+/usr/bin/ranlib libLibro.a

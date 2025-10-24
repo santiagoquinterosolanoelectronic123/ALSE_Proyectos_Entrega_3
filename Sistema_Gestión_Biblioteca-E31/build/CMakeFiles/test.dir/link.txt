@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/src/main.cpp.o CMakeFiles/test.dir/src/Estudiante.cpp.o CMakeFiles/test.dir/src/Biblioteca.cpp.o CMakeFiles/test.dir/src/Profesor.cpp.o CMakeFiles/test.dir/src/Libro.cpp.o CMakeFiles/test.dir/src/Usuario.cpp.o -o test 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProfesor.a CMakeFiles/Profesor.dir/src/Profesor.cpp.o
+/usr/bin/ranlib libProfesor.a
